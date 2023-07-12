@@ -6,7 +6,7 @@
     margin: 0 auto;
   
     width: 320px;
-    /* border: 2px solid black; */
+ 
     border-radius: 36px;
 background: linear-gradient(145deg, #cacaca, #f0f0f0);
 box-shadow:  14px 14px 23px #8b8b8b,
@@ -44,9 +44,7 @@ box-shadow:  14px 14px 23px #8b8b8b,
     text-transform: uppercase;
     cursor: pointer;
   
-     /* &:hover {
-     background: #e2e2e2;
-    } */
+   
   }
 
   .submit_btn:hover {background: #e2e2e2;}
